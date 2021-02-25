@@ -9,8 +9,8 @@ const ru = {
 }
 
 const tr = {
-	welcome: "Hoşgeldiniz!",
-	copyright: "Copyright 2020 Her hakkı saklıdır.",
+	welcome: "Hosgeldiniz!",
+	copyright: "Copyright 2020 Her hakki saklidir.",
 }
 
 const text = {

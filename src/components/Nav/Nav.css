@@ -1,0 +1,17 @@
+nav {
+	padding: 2rem;
+	display: flex;
+	background-color: azure;
+}
+
+ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin-left: 20px;
+	margin-right: 20px;
+}
